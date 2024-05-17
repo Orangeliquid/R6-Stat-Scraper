@@ -9,7 +9,7 @@ Side-note: MongoDB is used to keep track of all collectiuons - Make sure MongoDB
 - [Installation](#installation)
 - [Usage](#usage)
 - [Features](#features)
-- [Screenshots Including Two Regional Endpoints](#screenshots-including-two-regional-endpoints)
+- [Screenshots](#screenshots)
     - [Database](#database)
     - [Collection-Example](#collection-example)
     - [Bar-Chart-Example](#bar-chart-example)
@@ -56,7 +56,7 @@ To run the R6-Stat-Scraper locally, follow these steps:
 - Four bar chart function to visualize data acquired, or creation of new functions to visualize other collections
 - Three class creations for different categories of data found on TRN, allowing for easy databasing
 
-## Screenshots Including Two Regional Endpoints
+## Screenshots
 
 ### Database
 
