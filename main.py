@@ -2,6 +2,9 @@ from scraper import scrape_stats
 import graph
 from database import Profile, Overall_Stats, All_Time_Ranked_Stats
 
+"""As of 5/17/2024 Cloudflare now protects TRN, I have not implemented a work around.
+Also, chromedriver.exe must be updated to a Version: 125.0.6422.60"""
+
 """Sometimes TRN network will be able pop a video up on the bottom right of the screen - this slows the
 scrapping down considerably but the program will continue.
 
